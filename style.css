@@ -2,6 +2,7 @@
     --color-principal:#fefdfa;
     --color-secundario:#ebb7ab;
     --color-terciario:#ebb7ab;
+    --color-cuatro:#d89384;
     --font-principal:'Schoolbell', cursive;
     --font-secundaria:'Nunito Sans', sans-serif;
 }
@@ -83,7 +84,7 @@ header .header-info {
     justify-content: center;
     text-align: center;
     gap: -3px;
-    padding-bottom: 10px;
+    padding-top: 100px;
 }
 .infoimportante a {
     margin: 0px 0 0 0;
