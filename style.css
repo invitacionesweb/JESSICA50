@@ -288,6 +288,7 @@ main p {
 .quote {
     background-color: var(--color-secundario);
     color: var(--color-cuatro);
+    background-position: bottom;
     text-align: center;
     padding: 20PX 0;
     
